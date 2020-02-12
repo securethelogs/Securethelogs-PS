@@ -4,7 +4,8 @@
 
  
 Securethelogs.ps1 contains all of my scripts and allows remote execution of them all.
-Current modules:
+
+<b>Current modules:</b>
 
  -- Securethelog Scripts: --
 
