@@ -1,4 +1,4 @@
-<h1>Securethelogs - The All In One Script!</h1>
+<h1>The All In One Script!</h1>
 
 ![Securethelogs.com](https://ctrla1tdel.files.wordpress.com/2020/02/securethelogs.gif)
 
