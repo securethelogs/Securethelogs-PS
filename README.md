@@ -8,17 +8,17 @@ Current modules:
 
  -- Securethelog Scripts: --
 
-Option 1: PSpanner - Network Scanner
-Option 2: PSdnsresolver - Resolve IP > DNS
-Option 3: Bluechecker - Audit Powershell
-Option 4: PSBruteZip - Brute Force ZIP Files
-Option 5: Powersosh - Search For Usernames Online (OSINT)
-Option 6: ZorkAzure - Scan For Azure Resources
+- Option 1: PSpanner - Network Scanner
+- Option 2: PSdnsresolver - Resolve IP > DNS
+- Option 3: Bluechecker - Audit Powershell
+- Option 4: PSBruteZip - Brute Force ZIP Files
+- Option 5: Powersosh - Search For Usernames Online (OSINT)
+- Option 6: ZorkAzure - Scan For Azure Resources
 
  -- Other Options: --
 
-Option 7: Get Kerberos Ticket
-Option 8: Enter Remote Powershell Session (WinRM)
+- Option 7: Get Kerberos Ticket
+- Option 8: Enter Remote Powershell Session (WinRM)
 
 
 
